@@ -67,7 +67,7 @@ The substantially lower log-likelihood of the transformed images indicates that 
 │   └── results/
 ├── requirements.txt
 └── README.md
-
+```
 ## Visual Results
 
 ### PCA Explained Variance
